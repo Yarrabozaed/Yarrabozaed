@@ -1,4 +1,4 @@
-# Hello!:seedling::cloud::butterfly:
+# Hello!
 ## About me: 
 - Graduate student at Carnegie Mellon University studying Software Engineering in Scalable Systems.
 - Graduated from Seattle Pacific University with a degree in Computer Science and a minor in Data Analytics. Ex-part-time Computer Science Lab Assistant for SPU’s Computer Science department. I was also the backend lead for a senior software engineering social-media project called 'Mix' @ SPU. 
